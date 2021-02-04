@@ -33,5 +33,5 @@ jobs:
       with:
         app-name: 'yeo-travelrecordsapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c3bbbf8c7c33421d8ad5befae17aaded }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a12ade94ec05460ab813fbf3ce54ebc4 }}
         package: \published\
