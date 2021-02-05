@@ -25,7 +25,7 @@
     "url": "https://github.com/eqilabs/TravelAppBackend/issues"
   },
   "scripts" : { 
-    "test" : "jest" 
+    "test" : "jest --passWithNoTests" 
  },
   "homepage": "https://github.com/eqilabs/TravelAppBackend#readme",
   "description": ""
