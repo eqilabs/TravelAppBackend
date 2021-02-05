@@ -24,6 +24,9 @@
   "bugs": {
     "url": "https://github.com/eqilabs/TravelAppBackend/issues"
   },
+  "scripts" : { 
+    "test" : "jest" 
+ },
   "homepage": "https://github.com/eqilabs/TravelAppBackend#readme",
   "description": ""
 }
